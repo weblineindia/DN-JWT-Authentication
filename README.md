@@ -199,3 +199,29 @@ services.AddJwtAuthentication(jwtOptions);
 ### Security Considerations :
 - **Secret Key:** Keep your secret key confidential and avoid hardcoding it in your codebase.
 - **Audience and Issuer:** Ensure that the values for audience and issuer match the ones used during token generation.
+
+  ## Want to Contribute?
+
+- Created something awesome, made this code better, added some functionality, or whatever (this is the hardest part).
+- [Fork it](http://help.github.com/forking/).
+- Create new branch to contribute your changes.
+- Commit all your changes to your branch.
+- Submit a [pull request](http://help.github.com/pull-requests/).
+
+---
+
+## Collection of Components
+
+We have built many other components and free resources for software development in various programming languages. Kindly click here to view our [Free Resources for Software Development](https://www.weblineindia.com/software-development-resources.html)
+
+---
+
+## License
+
+[MIT](LICENSE)
+
+[mit]: https://github.com/weblineindia/ReactJS-Email/blob/master/LICENSE
+
+## Keywords
+ 
+dotnet, jwt, authentication, login
